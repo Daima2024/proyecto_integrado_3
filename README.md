@@ -1,4 +1,6 @@
 # proyecto_integrado_3
+Examen Piloto
+## Proyecto Integrador Nro 3 - Formato de pre-examen final
 ## Plan de estabilización y desinflación corporal en adultos de 40+ años.
 
 * El plan incluye un cambio en la dieta, para un total de 12 semanas (3 meses), con diferentes platos y colaciones, completamente balanceados en proteínas, carbohidratos y nutrientes para reducir la inflamacion corporal generado por:
